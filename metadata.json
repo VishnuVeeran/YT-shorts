@@ -1,0 +1,5 @@
+{
+  "name": "Automated Shorts Creator",
+  "description": "An application to automatically generate ideas, scripts, and simulated visual previews for 30- to 60-second faceless YouTube Shorts on automation topics using Gemini API. This app simulates video creation and does not produce final video files or integrate with cloud storage/YouTube API directly.",
+  "requestFramePermissions": []
+}
